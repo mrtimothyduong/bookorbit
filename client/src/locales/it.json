@@ -2474,7 +2474,22 @@
           "noLanguage": "Senza lingua",
           "noPublisher": "Senza editore"
         },
-        "unknownModifier": "Modificatore sconosciuto \"{modifier}\". Sarà ignorato, lasciando invariato il valore."
+        "unknownModifier": "Modificatore sconosciuto \"{modifier}\". Sarà ignorato, lasciando invariato il valore.",
+        "railFoot": "Una libreria senza un proprio modello segue il valore predefinito sottostante.",
+        "usedBy": "Usato da {libraries}",
+        "followsBase": "Segue la {base}.",
+        "copyPattern": "Copia modello",
+        "insertOptional": "Facoltativo",
+        "insertFallback": "Alternativa",
+        "insertFolder": "Cartella",
+        "tokenSuggestions": "Token corrispondenti",
+        "noTokenMatch": "Nessun token corrisponde \"{query}\".",
+        "uploadedNameKept": "Nome file caricato mantenuto",
+        "level": {
+          "folder": "Cartella {n}",
+          "bookFolder": "Cartella del libro",
+          "file": "Nome file"
+        }
       },
       "kobo": {
         "title": "Kobo Sincronizza",
